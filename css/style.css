@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+
+body {   
+
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(../img/bg-image0.png);
+    background-position: center center;
+    background-repeat: no repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+h1 {
+    font-family: 'Montserrat',;
+    color: white;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 300;
+    padding-bottom: 1rem;
+
+}
+
+h2 {
+    
+    font-family: 'Montserrat',;
+    color: white;
+    text-align: center;
+    font-size: 48px;
+    font-weight :500;
+    padding-bottom: 1rem;
+}
+
+p { 
+    font-family: 'Poppins', sans-serif,; 
+    color: white; 
+    text-align: center;
+    font-size: 21px;
+    letter-spacing: .5rem;
+ } 
