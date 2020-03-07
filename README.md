@@ -1,5 +1,7 @@
 # project001 - Cover Web Page.
 
+# Overview - Develop a simple static site with relevant links directing visitors to source code, resume and linkedIN.
+
 1.Created the SRS document and uploaded specifications to (JIRA) (CONFLUENCE).
 
 2.Designed the prototype with (UML) (ADOBE XD).
